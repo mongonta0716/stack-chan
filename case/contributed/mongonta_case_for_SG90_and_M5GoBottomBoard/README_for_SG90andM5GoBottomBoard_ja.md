@@ -48,7 +48,11 @@ M5Stackの基板はｽﾀｯｸﾁｬﾝ基板とは寸法が異なるので、�
     1. hat_lego_front_v1.0.stl<br>前側にlegoホールが3つ付いたHAT
     1. hat_stick_adapter_v1.0.stl<br>M5StickCやCPlus、M5StickVを固定できるHAT
 
-
+  * JLCPCBの半透明レジンに対応したモデル<br>半透明レジンはどうしても1面は荒くなってしまうのでその欠点を最小にするようにしました。shellのみ半透明用の特別バージョンでその他のパーツは他のバージョンと一緒です。
+    1. For_JLCPCB_Translucent_resin_model/shell_for_translucent_v1.0.stl
+    1. For_JLCPCB_Translucent_resin_model/bracket_SG90_v2.0.stl
+    1. For_JLCPCB_Translucent_resin_model/feet_SG90_v1.0.stl
+    1. For_JLCPCB_Translucent_resin_model/hat_cat_ear_v2.0.stl
 
 ## 用意するもの（最新情報は前述のブログで確認してください。）
 * M5Stack Core Basic/Gray/Go/Fire(+M5GoBottom1) M5Stack Core2(+ M5GoBottom2)

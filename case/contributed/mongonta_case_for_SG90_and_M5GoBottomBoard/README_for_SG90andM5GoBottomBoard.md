@@ -47,6 +47,11 @@ This README is simplified and information may be out of date. Please check the f
     1. hat_lego_back_v1.0.stl<br>HAT with 3 lego holes on the back side
     1. hat_lego_front_v1.0.stl<br>HAT with 3 lego holes on the front side
     1. hat_stick_adapter_v1.0.stl<br>HAT to fix M5StickC, CPlus and M5StickV
+  * This model is compatible with JLCPCB translucent resin<br>One side of translucent resin is inevitably rough, so we tried to minimize this drawback. only the shell is a special version for translucent resin. 
+    1. For_JLCPCB_Translucent_resin_model/shell_for_translucent_v1.0.stl
+    1. For_JLCPCB_Translucent_resin_model/bracket_SG90_v2.0.stl
+    1. For_JLCPCB_Translucent_resin_model/feet_SG90_v1.0.stl
+    1. For_JLCPCB_Translucent_resin_model/hat_cat_ear_v2.0.stl
 
 ## Things to prepare
 
